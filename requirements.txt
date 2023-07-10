@@ -1,0 +1,4 @@
+streamlit==1.21.0
+streamlit-shap==1.0.2
+shap==0.41.0
+xai==0.1.0
