@@ -3,7 +3,7 @@
     ThS.Quách Đình Hoàng
 ### Sinh viên thực hiện:
     Lại Hữu Trác		 mssv: 19133059
-    Nguyễn Thanh Tân Kỷ	 mssv: 19133003
+    Nguyễn Duy Phước	 mssv: 19133003
 ## Hướng dẫn cài đặt
 ### 1. Chuẩn bị
 + Phiên bản python sử dụng: _3.10.7_, trình soạn thảo: _VsCode_
